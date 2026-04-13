@@ -1,0 +1,6 @@
+venvapp/
+__pycache__/
+*.pyc
+Uploaded_Resumes/
+*.db
+.env
