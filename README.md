@@ -30,7 +30,7 @@ AI Resume Analyzer is a web-based application that analyzes resumes and provides
 1. Clone the repository:
 
    ```
-   git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
+   git clone https://github.com/shristi-kush/AI-Resume-Analyzer.git
    ```
 
 2. Navigate to project folder:
